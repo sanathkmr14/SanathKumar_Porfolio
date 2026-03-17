@@ -36,7 +36,7 @@ Portfolio/
 │   └── theme.js        # Theme switching logic
 ├── images/
 │   └── Sanath.jpg     # Profile image
-├── Sanath-Resume.pdf  # Resume download
+├── SanathKumar_Resume.pdf  # Resume download
 └── README.md          # Project documentation
 ```
 
