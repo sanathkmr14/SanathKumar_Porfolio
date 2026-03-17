@@ -75,14 +75,15 @@ Portfolio/
 - Key achievements
 
 ### 🛠️ Skills
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Node.js, Python, Java, C++
-- **Database**: MongoDB, MySQL, PostgreSQL
+- **Frontend**: HTML, CSS, JavaScript, React, Redux
+- **Backend**: Node.js, Python, Django Rest Framework
+- **Database**: MongoDB, MySQL,
 - **Tools**: Git, Docker, AWS, CI/CD
 
 ### 🚀 Projects
-- **E-Commerce Platform**: React, Node.js, MongoDB
-- **Task Management App**: TypeScript, Next.js, Prisma
+- **E-Commerce Platform**: Python, Django Rest Framework, REST API, MongoDB
+- **Pulse Guard**: MongoDB, Express, React.js, Node.js, Socket.io, BullMQ, Redis
+- **Video Transcriber**: Python, Moviepy, Whisper
 - **Portfolio Website**: HTML, CSS, JavaScript
 
 ### 📞 Contact
